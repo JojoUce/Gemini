@@ -1,11 +1,7 @@
 #%%writefile .env
 #API_KEY=AIzaSyA99J1O7DEf7gncFJWdOiba6_Hls8a7AIk
 
-#!pip install -q -U google-generativeai
-#!pip install python-dotenv
-
-# Importar las librerías necesarias
-# Importar las librerías necesarias
+# pip install python-dotenv google-generat
 from dotenv import load_dotenv
 import os
 import google.generativeai as genai
